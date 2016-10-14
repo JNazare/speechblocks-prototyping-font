@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'Speechblocks';
+  src: url('../fonts/speechblocks.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/speechblocks.woff') format('woff'), /* Pretty Modern Browsers */
+       url('../fonts/speechblocks.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/speechblocks.svg#speechblocks') format('svg'); /* Legacy iOS */
+}
+
+body{
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	padding: 20px;
+}
+
+.sb-text{
+	font-family: 'Speechblocks', Helvetica, sans-serif;
+	font-size: 30px;
+}
+
+.vowel{
+	color: #FD201C;
+}
+
+.consonant{
+	color: #1578FC;
+}
+
+#sb-editor:focus{
+	outline: none;
+}
