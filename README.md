@@ -3,6 +3,7 @@ This is a font for prototyping with Speechblocks. You can use it in Keynote, Ske
 
 ## Demo
 [Check out the demo here](https://github.mit.edu/pages/jnazare/speechblocks-prototyping-font/)
+
 Note: If its easier, you can screenshot the Speechblocks here and then put them into prototyping applications.
 
 ## Installation
